@@ -1,0 +1,22 @@
+﻿  draw2.cpp
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(96,16): warning C4305: "argument": obcięcie z "int" do "BYTE"
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(96,22): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(143,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(144,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(145,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(152,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(153,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(154,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(170,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(171,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(172,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(179,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(180,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(181,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(202,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(203,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(204,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(211,12): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(212,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\draw\draw2.cpp(213,11): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  draw.vcxproj -> C:\Users\oliwer_cycek\Desktop\Projectt4\draw2\Debug\draw2.exe
